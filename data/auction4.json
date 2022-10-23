@@ -1,0 +1,18 @@
+{
+  "id": 4,
+  "reservePrice": 100,
+  "bids": [
+    {
+      "user": "A",
+      "value": 110
+    },
+    {
+      "user": "A",
+      "value": 130
+    },
+    {
+      "user": "B",
+      "value": 105
+    }
+  ]
+}
